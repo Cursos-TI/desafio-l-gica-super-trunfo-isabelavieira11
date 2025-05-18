@@ -14,6 +14,7 @@ int main() {
     int populacao1, populacao2; 
     int ptsturisticos1, ptsturisticos2; 
 
+    //nível novato
     printf("O jogo Super Trunfo começa agora! Insira os dados das cartas\n\n"); 
 
     //Dados da Carta 1 que serão digitados pelo usuário 
